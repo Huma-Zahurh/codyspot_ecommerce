@@ -1,0 +1,22 @@
+.li-items{
+    font-size: 25px;
+    font-family: dominie;
+    font-weight: 400;
+}
+.bgr-blue{
+    color: white;
+    background-color: #163072;
+    border-radius: 15px;
+    min-height: 120vh;
+}
+
+.span{
+    margin: 0px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+li:hover{
+    margin-left: 10px;
+}
